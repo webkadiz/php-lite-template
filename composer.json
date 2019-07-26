@@ -1,0 +1,14 @@
+{
+    "name": "webkadiz/php-lite-template",
+    "description": "Template for PHP Lite Framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tkachenko Vladislav",
+            "email": "webkadiz@gmail.com"
+        }
+    ],
+    "require": {
+        "webkadiz/php-lite": "^1.0"
+    }
+}

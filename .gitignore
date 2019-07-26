@@ -1,0 +1,10 @@
+/vendor
+
+/.idea
+/.vscode
+
+/composer.lock
+
+/config/main-local.php
+/web/index.php
+/web/robots.txt
