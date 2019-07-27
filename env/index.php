@@ -31,7 +31,9 @@
 return [
     'Development' => [
         'path' => 'dev',
-        'setWritable' => [],
+        'setWritable' => [
+            'log'
+        ],
         'setExecutable' => [],
         'setCookieValidationKey' => [
             'config/main-local.php',
@@ -39,7 +41,9 @@ return [
     ],
     'Production' => [
         'path' => 'prod',
-        'setWritable' => [],
+        'setWritable' => [
+            'log'
+        ],
         'setExecutable' => [],
         'setCookieValidationKey' => [
             'config/main-local.php',

@@ -8,3 +8,4 @@
 /config/main-local.php
 /web/index.php
 /web/robots.txt
+/log/.keep
