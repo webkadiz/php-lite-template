@@ -8,3 +8,4 @@
 /web/index.php
 /web/robots.txt
 /log/*
+!/log/.gitkeep
