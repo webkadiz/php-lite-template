@@ -34,19 +34,13 @@ return [
         'setWritable' => [
             'log'
         ],
-        'setExecutable' => [],
-        'setCookieValidationKey' => [
-            'config/main-local.php',
-        ],
+        'setExecutable' => []
     ],
     'Production' => [
         'path' => 'prod',
         'setWritable' => [
             'log'
         ],
-        'setExecutable' => [],
-        'setCookieValidationKey' => [
-            'config/main-local.php',
-        ],
+        'setExecutable' => []
     ],
 ];
