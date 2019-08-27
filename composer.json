@@ -10,5 +10,10 @@
     ],
     "require": {
         "webkadiz/php-lite": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
     }
 }
